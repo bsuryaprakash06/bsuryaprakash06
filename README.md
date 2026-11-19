@@ -22,7 +22,7 @@ I build **Machine Learning systems, Deep Learning architectures, Computer Vision
 ▸ **Robotics & Simulation** · **[Cobot Avoidance](https://github.com/bsuryaprakash06/cobot-avoidance)** · Reinforcement learning environment for collaborative robot safety on factory floors<br>
 ▸ **High-Performance Computing** · **[CUDA Sketch Accelerator](https://github.com/bsuryaprakash06/CUDA-Sketch-Accelerator)** · GPU-accelerated parallel pencil-sketch algorithm implemented in C++ and CUDA<br>
 ▸ **Multimodal Search** · **[Multimodal Relevance Engine](https://github.com/bsuryaprakash06/Multimodal-Relevance-Engine)** · AI-driven semantic image-to-post matching with Qwen Vision and Mismatch Guard<br>
-<img align="right" width="280" src="assets/ninja-hello.jpg" alt="HELLO" />
+<img align="right" width="300" src="assets/ninja-hello.png" alt="HELLO" />
 ▸ **Data Engineering** · **[The Polite Scraper](https://github.com/bsuryaprakash06/the-polite-scraper)** · Observable, fault-tolerant web data extraction pipeline with Pydantic schema validation<br>
 ▸ **Backend Infrastructure** · **[Todo FastAPI](https://github.com/bsuryaprakash06/todo-fastapi)** · Production-grade RESTful task management API with PostgreSQL, Supabase JWT auth, and Docker<br>
 ▸ **Computer Vision Suite** · **[Computer Vision Lab](https://github.com/bsuryaprakash06/Computer-Vision-Fundamentals-with-OpenCV)** · 17 OpenCV and deep learning experiments covering YOLOv4, Haar cascades, and lane detection<br>
