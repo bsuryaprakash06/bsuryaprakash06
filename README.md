@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/Tc-TUkHTki4AAAAd/rick-roll.gif" width="100%" alt="Rick Roll" />
+</p>
+
+<!--
 <img align="right" width="90" style="border-radius: 8px;" src="https://media1.tenor.com/m/1iVV0X0YZwIAAAAd/chandler-hallow.gif" alt="Chandler" />
 
 <table width="85%">
@@ -27,9 +32,6 @@ I build **Machine Learning systems, Deep Learning architectures, Computer Vision
 ▸ **Backend Infrastructure** · **[Todo FastAPI](https://github.com/bsuryaprakash06/todo-fastapi)** · Production-grade RESTful task management API with PostgreSQL, Supabase JWT auth, and Docker<br>
 ▸ **Computer Vision Suite** · **[Computer Vision Lab](https://github.com/bsuryaprakash06/Computer-Vision-Fundamentals-with-OpenCV)** · 17 OpenCV and deep learning experiments covering YOLOv4, Haar cascades, and lane detection<br>
 ▸ **Algorithmic Foundations** · **[Machine & Deep Learning Experiments](https://github.com/bsuryaprakash06/Developing-a-Neural-Network-Classification-Model)** · 20+ implementations spanning linear models, SVMs, decision trees, CNNs, LSTMs, and autoencoders
-
-<!--
-OLD PROFILE CONTENT:
 
 <p align="center">
   <img src="https://media1.tenor.com/m/1iVV0X0YZwIAAAAd/chandler-hallow.gif"/>
